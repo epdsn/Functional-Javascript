@@ -8,7 +8,7 @@ var animals = [
 ]
 
 // Using for loop:
-console.log("The old old way, with a for loop:")
+console.log("The old old way, with a for-loop:")
 var names = [];
 for (var i = 0; i < animals.length; i++) {
     names.push(animals[i].name)
